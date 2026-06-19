@@ -1,0 +1,16 @@
+index.htm,
+pg_header.inc,
+pg_footer.inc,
+xml_http.js,
+home.png,
+nuevapartida.cgi,
+rtc_consumo.cgx,
+partida.cgi,
+partida.cgx,
+puntuaciones.cgi,
+puntuaciones.cgx,
+reactron_logo2.jpg,
+botn_menu2.jpg,
+bton_volver_a_jugar.jpg,
+puntos.cgx 
+TO Web.c RTE NOPRINT ROOT(Web)

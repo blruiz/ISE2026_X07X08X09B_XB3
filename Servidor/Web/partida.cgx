@@ -1,0 +1,23 @@
+t <form>
+t <text>
+t <id>accion_go</id>
+c g 1 <value>%s</value>
+t </text>
+t <text>
+t <id>puntos</id>
+c g 2 <value>%u</value>
+t </text>
+t <text>
+t <id>current_time</id>
+c g 3 <value>%s</value>
+t </text>
+t <text>
+t <id>current_date</id>
+c g 4 <value>%s</value>
+t </text>
+t <text>
+t <id>ad_value</id>
+c g 5 <value>%d</value>
+t </text>
+t </form>
+.

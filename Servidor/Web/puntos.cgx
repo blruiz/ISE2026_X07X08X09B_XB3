@@ -1,0 +1,7 @@
+t <form>
+t <text>
+t <id>puntos</id>
+c n 1 <value>%u</value>
+t </text>
+t </form>
+.

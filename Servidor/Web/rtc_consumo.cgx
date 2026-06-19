@@ -1,0 +1,15 @@
+t <form>
+t <text>
+t <id>current_time</id>
+c y 1 <value>%s</value>
+t </text>
+t <text>
+t <id>current_date</id>
+c y 2 <value>%s</value>
+t </text>
+t <text>
+t <id>ad_value</id>
+c y 3 <value>%d</value>
+t </text>
+t </form>
+.

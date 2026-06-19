@@ -1,0 +1,43 @@
+t <form>
+# --- FILA 0 ---
+c c 0 <text><id>score_name_0</id><value>%s</value></text>
+c c 1 <text><id>score_points_0</id><value>%d</value></text>
+c c 2 <text><id>score_fecha_0</id><value>%s</value></text>
+# --- FILA 1 ---
+c c 3 <text><id>score_name_1</id><value>%s</value></text>
+c c 4 <text><id>score_points_1</id><value>%d</value></text>
+c c 5 <text><id>score_fecha_1</id><value>%s</value></text>
+# --- FILA 2 ---
+c c 6 <text><id>score_name_2</id><value>%s</value></text>
+c c 7 <text><id>score_points_2</id><value>%d</value></text>
+c c 8 <text><id>score_fecha_2</id><value>%s</value></text>
+# --- FILA 3 ---
+c c 9 <text><id>score_name_3</id><value>%s</value></text>
+c c 10 <text><id>score_points_3</id><value>%d</value></text>
+c c 11 <text><id>score_fecha_3</id><value>%s</value></text>
+# --- FILA 4 ---
+c c 12 <text><id>score_name_4</id><value>%s</value></text>
+c c 13 <text><id>score_points_4</id><value>%d</value></text>
+c c 14 <text><id>score_fecha_4</id><value>%s</value></text>
+# --- FILA 5 ---
+c c 15 <text><id>score_name_5</id><value>%s</value></text>
+c c 16 <text><id>score_points_5</id><value>%d</value></text>
+c c 17 <text><id>score_fecha_5</id><value>%s</value></text>
+# --- FILA 6 ---
+c c 18 <text><id>score_name_6</id><value>%s</value></text>
+c c 19 <text><id>score_points_6</id><value>%d</value></text>
+c c 20 <text><id>score_fecha_6</id><value>%s</value></text>
+# --- FILA 7 ---
+c c 21 <text><id>score_name_7</id><value>%s</value></text>
+c c 22 <text><id>score_points_7</id><value>%d</value></text>
+c c 23 <text><id>score_fecha_7</id><value>%s</value></text>
+# --- FILA 8 ---
+c c 24 <text><id>score_name_8</id><value>%s</value></text>
+c c 25 <text><id>score_points_8</id><value>%d</value></text>
+c c 26 <text><id>score_fecha_8</id><value>%s</value></text>
+# --- FILA 9 ---
+c c 27 <text><id>score_name_9</id><value>%s</value></text>
+c c 28 <text><id>score_points_9</id><value>%d</value></text>
+c c 29 <text><id>score_fecha_9</id><value>%s</value></text>
+t </form>
+.
